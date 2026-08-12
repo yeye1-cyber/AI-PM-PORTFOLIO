@@ -58,7 +58,7 @@ export function SupportProjectSection(){
       </article>
       <div className="flex items-center justify-end">
         <div className="relative aspect-video w-full max-w-[900px] overflow-hidden rounded-[12px] border border-[#d9ddd2] bg-[#203b13] shadow-[0_12px_30px_rgba(32,59,19,.10)]">
-          <video className="h-full w-full object-cover" controls playsInline preload="metadata" src="/api/materials/support-demo-video">你的浏览器暂不支持视频播放。</video>
+          <video className="h-full w-full object-cover" controls playsInline preload="metadata" src="/videos/陪伴产品demo视频.mp4">你的浏览器暂不支持视频播放。</video>
         </div>
       </div>
       </div>
