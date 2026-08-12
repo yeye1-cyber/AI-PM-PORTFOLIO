@@ -9,9 +9,11 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@xyflow/react": "^12.11.2",
     "next": "16.3.0",
     "react": "19.2.8",
-    "react-dom": "19.2.8"
+    "react-dom": "19.2.8",
+    "threejs-components": "^0.0.30"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",

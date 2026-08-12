@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#e2e4dc"/><rect x="55" y="50" width="1090" height="660" rx="28" fill="#fbfaf5"/>
+  <text x="100" y="120" fill="#68746c" font-family="Arial" font-size="20" letter-spacing="4">KNOWLEDGE SYSTEM</text>
+  <g stroke="#8a9a83" stroke-width="4" opacity=".75"><path d="M270 360L480 215 690 350 910 225"/><path d="M480 215L520 520 690 350 900 535"/><path d="M270 360L520 520"/></g>
+  <g fill="#f4f3ed" stroke="#99a78f" stroke-width="3"><circle cx="270" cy="360" r="76"/><circle cx="480" cy="215" r="68"/><circle cx="690" cy="350" r="86"/><circle cx="910" cy="225" r="62"/><circle cx="520" cy="520" r="72"/><circle cx="900" cy="535" r="70"/></g>
+  <g fill="#34483b" font-family="Arial" font-size="17" text-anchor="middle"><text x="270" y="366">Inbox</text><text x="480" y="221">Topics</text><text x="690" y="356">Knowledge</text><text x="910" y="231">Review</text><text x="520" y="526">Links</text><text x="900" y="541">Action</text></g>
+</svg>

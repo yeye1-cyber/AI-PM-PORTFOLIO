@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#d9ddd2"/><rect x="55" y="50" width="1090" height="660" rx="28" fill="#faf9f4"/>
+  <rect x="55" y="50" width="235" height="660" rx="28" fill="#26372e"/><circle cx="105" cy="100" r="10" fill="#aebb88"/>
+  <g fill="#718078"><rect x="100" y="165" width="125" height="12" rx="6"/><rect x="100" y="215" width="145" height="12" rx="6"/><rect x="100" y="265" width="105" height="12" rx="6"/></g>
+  <rect x="340" y="105" width="745" height="70" rx="16" fill="#eceee7"/><rect x="340" y="220" width="460" height="390" rx="20" fill="#f0ede6"/>
+  <rect x="835" y="220" width="250" height="180" rx="20" fill="#dfe6d8"/><rect x="835" y="430" width="250" height="180" rx="20" fill="#e8e9e1"/>
+  <text x="375" y="148" fill="#59675e" font-family="Arial" font-size="22" letter-spacing="3">OBSIDIAN PLUGIN</text>
+</svg>
