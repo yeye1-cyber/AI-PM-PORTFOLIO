@@ -143,7 +143,7 @@ export function TradeFlowProjectSection() {
           </div>
         </nav>
 
-        <div className="relative aspect-square min-h-[330px] min-w-0 overflow-hidden rounded-[16px] border border-[#dfe3d8] bg-white shadow-[0_8px_18px_rgba(20,20,20,.06)] lg:min-h-0">
+        <div className="order-3 relative aspect-square min-h-[330px] min-w-0 overflow-hidden rounded-[16px] border border-[#dfe3d8] bg-white shadow-[0_8px_18px_rgba(20,20,20,.06)] lg:min-h-0">
           <iframe
             title="Trade Flow 原前端策略编辑器预览"
             src="/tradeflow-app/index.html#/portfolio-canvas"
@@ -152,7 +152,7 @@ export function TradeFlowProjectSection() {
           />
         </div>
 
-        <article className="relative flex aspect-square min-h-[330px] min-w-0 flex-col rounded-[16px] border border-[#748c81] bg-[#748c81] p-6 text-white lg:min-h-0">
+        <article className="order-2 relative flex aspect-square min-h-[330px] min-w-0 flex-col rounded-[16px] border border-[#748c81] bg-[#748c81] p-6 text-white lg:min-h-0">
           <div className="flex items-center justify-between">
             <span className="text-[8px] tracking-[.1em] text-white/45">DETAIL DEMO · {active.number}</span>
           </div>
